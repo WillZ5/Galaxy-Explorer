@@ -1,6 +1,6 @@
 # Galaxy Explorer
 
-## Version 1.1.0 Full Version
+## Version 1.1.1 Full Version
 
 Galaxy Explorer is an immersive space exploration game where you navigate through galaxies, fighting off pirates
 and monsters. Set in the vastness of space, your mission is to survive as long as possible by dodging enemies,
